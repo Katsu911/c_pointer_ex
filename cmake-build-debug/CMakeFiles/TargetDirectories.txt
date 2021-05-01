@@ -1,0 +1,3 @@
+C:/Users/shigemunek/CLionProjects/c_pointer_ex/cmake-build-debug/CMakeFiles/c_pointer_ex.dir
+C:/Users/shigemunek/CLionProjects/c_pointer_ex/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shigemunek/CLionProjects/c_pointer_ex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
